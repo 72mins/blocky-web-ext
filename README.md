@@ -34,10 +34,6 @@ The original project was created by xyzeva, but not as an extension.
 
 Inspired by xyzeva (https://github.com/xyzeva/blocky-web).
 
-## Authors
-
-- [@jan/72mins](https://www.github.com/72mins)
-
 ## Support
 
 For support, email 72min@proton.me.
