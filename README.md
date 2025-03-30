@@ -1,6 +1,10 @@
 <div align="center">
 <h1>Blocky Web Extension</h1>
-  
+
+| <img width="500" alt="image" src="https://github.com/72mins/blocky-web-ext/blob/main/assets/t3.png"> | <img width="500" alt="image" src="https://github.com/72mins/blocky-web-ext/blob/main/assets/github.png"> |
+| ------------- | ------------- |
+| <img width="500" alt="image" src="https://github.com/72mins/blocky-web-ext/blob/main/assets/spotify.png"> | <img width="500" alt="image" src="https://github.com/72mins/blocky-web-ext/blob/main/assets/shadcn.png"> |
+
 [![License: AGPL v3](https://img.shields.io/badge/License-AGPL%20v3-blue.svg)](https://www.gnu.org/licenses/agpl-3.0)
 
 </div>
